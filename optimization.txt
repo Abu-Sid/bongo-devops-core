@@ -1,1 +1,2 @@
 Original Line 1
+conflict file
